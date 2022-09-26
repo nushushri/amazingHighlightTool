@@ -1,0 +1,16 @@
+{
+  "name": "Amazing Highlight Tool",
+  "description": "April Fools' Joke",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": ["storage", "activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "128": "/images/icon.png"
+    }
+  },
+  "icons": {
+    "128": "/images/icon.png"
+  }
+}
